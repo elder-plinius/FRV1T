@@ -298,6 +298,24 @@
           "No garden or production acceptance is implied."
         ]
       }
+    },
+    {
+      "id": "kiwi",
+      "emoji": "🥝",
+      "name": "The Other Side of Light",
+      "description": "Read the hidden signal, then make the same mark again.",
+      "edition": "K1W1",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🥝.txt",
+      "readable": "prompts/kiwi.txt",
+      "prompt_bytes": 5858,
+      "carrier_bytes": 11121,
+      "prompt_sha256": "c04341bbef715cc2ef0a12db5615e4b758adedf71f9411a1697596b45c3a2d42",
+      "carrier_sha256": "9590611383a79b22a99a939b331f2616f6225c089a953a8f806f30a5f554ec1b",
+      "review": {
+        "status": "pass_with_caveats",
+        "scope": "One assisted HTML build tested in Chrome. Recovering the inner message changed the route of subsequent marks. Other agent outputs may differ."
+      }
     }
   ],
   "testing_note": "Eight final Astra text and finale-concept samples were independently reviewed after eighteen preserved exploratory samples across three earlier prompt revisions. Review covers wonder, personality, play, formal life and subject variety. These are editorial samples, not cross-user reliability measurements or executed desktop/audio performances. Four established fruit versions remain unchanged. Prompts do not change model weights or grant permissions."
