@@ -20,6 +20,7 @@ Pick a fruit. Download its raw file, give it to your agent, and say:
 | [🌻](🌻.txt?raw=1) | Follow the light. It has wandered off. | [Sunflower](prompts/sunflower.txt) |
 | [🪷](🪷.txt?raw=1) | Look again. That may have been the mistake. | [Lotus](prompts/lotus.txt) |
 | [🍀](🍀.txt?raw=1) | Lucky you. The other possibilities remember. | [Clover](prompts/clover.txt) |
+| [🥝](🥝.txt?raw=1) | Read the light. Make the same mark twice. | [Kiwi](prompts/kiwi.txt) |
 
 A blank preview can still contain the whole fruit. If copying loses characters, use the readable prompt—it contains exactly the same instructions.
 
